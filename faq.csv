@@ -1,0 +1,19 @@
+Question,Answer,Category
+What is your name?,I am an AI FAQ Chatbot designed to answer frequently asked questions.,General
+What is AI?,Artificial Intelligence is a technology that enables machines to perform tasks that normally require human intelligence.,Artificial Intelligence
+What is artificial intelligence?,Artificial Intelligence is a technology that enables machines to perform tasks that normally require human intelligence.,Artificial Intelligence
+Tell me about AI,Artificial Intelligence is a technology that enables machines to perform tasks that normally require human intelligence.,Artificial Intelligence
+What is Python?,Python is a popular programming language used for web development data science automation and artificial intelligence.,Programming
+What is Python programming?,Python is a popular programming language used for web development data science automation and artificial intelligence.,Programming
+Tell me about Python,Python is a popular programming language used for web development data science automation and artificial intelligence.,Programming
+What can you do?,I can answer questions based on the information available in my FAQ knowledge base.,General
+How does this chatbot work?,I compare your question with the FAQ knowledge base and return the most relevant answer.,General
+What is machine learning?,Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data.,Machine Learning
+What is ML?,Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data.,Machine Learning
+Tell me about machine learning,Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data.,Machine Learning
+What is Streamlit?,Streamlit is a Python framework used to build interactive web applications for data science and machine learning.,Programming
+What is RapidFuzz?,RapidFuzz is a Python library used for fast fuzzy string matching.,Programming
+What is data science?,Data science combines programming statistics and analytical methods to extract useful insights from data.,Data Science
+What is deep learning?,Deep learning is a branch of machine learning that uses neural networks with multiple layers.,Deep Learning
+What is NLP?,Natural Language Processing is a branch of artificial intelligence that enables computers to understand and process human language.,NLP
+What is computer vision?,Computer vision is a field of artificial intelligence that enables computers to interpret and understand visual information from images and videos.,Computer Vision

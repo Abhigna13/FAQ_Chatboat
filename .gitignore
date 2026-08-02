@@ -1,0 +1,55 @@
+# Python cache files
+
+*.pyc
+**pycache**/
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+
+# Streamlit Files
+
+.streamlit/
+
+# Environment Files
+
+.env
+.env.*
+
+# Logs
+
+logs/
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Generated Chat History
+
+faq_chat_history.txt
+chat_history.txt
+
+# Generated / Exported Files
+
+outputs/
+exports/
+
+# Jupyter Notebook Files
+
+.ipynb_checkpoints/
+
+# IDE / Editor Settings
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+
+.DS_Store
+Thumbs.db
