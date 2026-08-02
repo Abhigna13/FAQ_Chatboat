@@ -110,7 +110,7 @@ FAQ_Chatbot
 
 ### 🐍 Python FAQ Answer
 
-![Python FAQ Answer](screenshots/Python_FAQ%20Answer.png)
+![Python FAQ Answer](screenshots/Python_FAQ_Answer.png)
 
 ---
 
